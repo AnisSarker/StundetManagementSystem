@@ -18,8 +18,10 @@
                             <table class="table">
                                 <thead>
                                     <tr>
-                                        <th>Sl</th>
+                                        <th>Sl</th> 
+
                                         <th>Name</th>
+                                        
                                         <th>Roll</th>
                                         <th>Class</th>
                                         <th>Mobile</th>
